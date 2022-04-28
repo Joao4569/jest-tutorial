@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Joao4569/jest-tutorial#readme",
   "devDependencies": {
-    "jest": "^28.0.1"
+    "jest": "^28.0.1",
+    "jest-environment-jsdom": "^28.0.2"
   }
 }
